@@ -1,0 +1,40 @@
+C:\Users\Administrator\source\repos\duaxe\duaxe\bin\Debug\duaxe.exe.config
+C:\Users\Administrator\source\repos\duaxe\duaxe\bin\Debug\duaxe.exe
+C:\Users\Administrator\source\repos\duaxe\duaxe\bin\Debug\duaxe.pdb
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.Form1.resources
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.Properties.Resources.resources
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.exe
+C:\Users\Administrator\source\repos\duaxe\duaxe\obj\Debug\duaxe.pdb
+B:\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe.config
+B:\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe
+B:\duaxe\duaxe\duaxe\bin\Debug\duaxe.pdb
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.AssemblyReference.cache
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.Form1.resources
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.Properties.Resources.resources
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.GenerateResource.cache
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.CoreCompileInputs.cache
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.exe
+B:\duaxe\duaxe\duaxe\obj\Debug\duaxe.pdb
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe.config
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\bin\Debug\duaxe.pdb
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.Form1.resources
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.Properties.Resources.resources
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.exe
+C:\Users\Administrator\Downloads\duaxe\duaxe\duaxe\obj\Debug\duaxe.pdb
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe.config
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\bin\Debug\duaxe.exe
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\bin\Debug\duaxe.pdb
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.Form1.resources
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.Properties.Resources.resources
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.exe
+C:\Users\Admin\Downloads\duaxe (1)\duaxe\duaxe\duaxe\obj\Debug\duaxe.pdb
